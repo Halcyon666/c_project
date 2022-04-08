@@ -1,0 +1,120 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/project/c_project/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/mingw64/bin/mingw32-make.exe -f Makefile cmTC_2d58e/fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: D:/Program Files/mingw64/bin/mingw32-make.exe -f Makefile cmTC_2d58e/fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/project/c_project/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/mingw64/bin/mingw32-make.exe -f Makefile cmTC_5e4ed/fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: D:/Program Files/mingw64/bin/mingw32-make.exe -f Makefile cmTC_5e4ed/fast && 
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/project/c_project/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/mingw64/bin/mingw32-make.exe -f Makefile cmTC_572fc/fast && D:\Program Files\mingw64\bin\make.exe  -f CMakeFiles\cmTC_572fc.dir\build.make CMakeFiles/cmTC_572fc.dir/build
+process_begin: CreateProcess(NULL, D:\Program Files\mingw64\bin\make.exe -f CMakeFiles\cmTC_572fc.dir\build.make CMakeFiles/cmTC_572fc.dir/build, ...) failed.
+make (e=2): 系统找不到指定的文件。
+mingw32-make.exe: *** [Makefile:126: cmTC_572fc/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/project/c_project/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/mingw64/bin/mingw32-make.exe -f Makefile cmTC_d6075/fast && D:\Program Files\mingw64\bin\make.exe  -f CMakeFiles\cmTC_d6075.dir\build.make CMakeFiles/cmTC_d6075.dir/build
+process_begin: CreateProcess(NULL, D:\Program Files\mingw64\bin\make.exe -f CMakeFiles\cmTC_d6075.dir\build.make CMakeFiles/cmTC_d6075.dir/build, ...) failed.
+make (e=2): 系统找不到指定的文件。
+mingw32-make.exe: *** [Makefile:126: cmTC_d6075/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/project/c_project/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/mingw64/bin/mingw32-make.exe -f Makefile cmTC_22da0/fast && D:\Program Files\mingw64\bin\make.exe  -f CMakeFiles\cmTC_22da0.dir\build.make CMakeFiles/cmTC_22da0.dir/build
+process_begin: CreateProcess(NULL, D:\Program Files\mingw64\bin\make.exe -f CMakeFiles\cmTC_22da0.dir\build.make CMakeFiles/cmTC_22da0.dir/build, ...) failed.
+make (e=2): 系统找不到指定的文件。
+mingw32-make.exe: *** [Makefile:126: cmTC_22da0/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/project/c_project/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/mingw64/bin/mingw32-make.exe -f Makefile cmTC_92349/fast && D:\Program Files\mingw64\bin\make.exe  -f CMakeFiles\cmTC_92349.dir\build.make CMakeFiles/cmTC_92349.dir/build
+process_begin: CreateProcess(NULL, D:\Program Files\mingw64\bin\make.exe -f CMakeFiles\cmTC_92349.dir\build.make CMakeFiles/cmTC_92349.dir/build, ...) failed.
+make (e=2): 系统找不到指定的文件。
+mingw32-make.exe: *** [Makefile:126: cmTC_92349/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/project/c_project/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/mingw64/bin/mingw32-make.exe -f Makefile cmTC_72ed7/fast && D:\Program Files\mingw64\bin\make.exe  -f CMakeFiles\cmTC_72ed7.dir\build.make CMakeFiles/cmTC_72ed7.dir/build
+process_begin: CreateProcess(NULL, D:\Program Files\mingw64\bin\make.exe -f CMakeFiles\cmTC_72ed7.dir\build.make CMakeFiles/cmTC_72ed7.dir/build, ...) failed.
+make (e=2): 系统找不到指定的文件。
+mingw32-make.exe: *** [Makefile:126: cmTC_72ed7/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/project/c_project/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/mingw64/bin/mingw32-make.exe -f Makefile cmTC_519f7/fast && D:\Program Files\mingw64\bin\make.exe  -f CMakeFiles\cmTC_519f7.dir\build.make CMakeFiles/cmTC_519f7.dir/build
+process_begin: CreateProcess(NULL, D:\Program Files\mingw64\bin\make.exe -f CMakeFiles\cmTC_519f7.dir\build.make CMakeFiles/cmTC_519f7.dir/build, ...) failed.
+make (e=2): 系统找不到指定的文件。
+mingw32-make.exe: *** [Makefile:126: cmTC_519f7/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/project/c_project/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/mingw64/bin/mingw32-make.exe -f Makefile cmTC_6ea44/fast && D:\Program Files\mingw64\bin\make.exe  -f CMakeFiles\cmTC_6ea44.dir\build.make CMakeFiles/cmTC_6ea44.dir/build
+process_begin: CreateProcess(NULL, D:\Program Files\mingw64\bin\make.exe -f CMakeFiles\cmTC_6ea44.dir\build.make CMakeFiles/cmTC_6ea44.dir/build, ...) failed.
+make (e=2): 系统找不到指定的文件。
+mingw32-make.exe: *** [Makefile:126: cmTC_6ea44/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/project/c_project/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/mingw64/bin/mingw32-make.exe -f Makefile cmTC_4f0f7/fast && D:\Program Files\mingw64\bin\make.exe  -f CMakeFiles\cmTC_4f0f7.dir\build.make CMakeFiles/cmTC_4f0f7.dir/build
+process_begin: CreateProcess(NULL, D:\Program Files\mingw64\bin\make.exe -f CMakeFiles\cmTC_4f0f7.dir\build.make CMakeFiles/cmTC_4f0f7.dir/build, ...) failed.
+make (e=2): 系统找不到指定的文件。
+mingw32-make.exe: *** [Makefile:126: cmTC_4f0f7/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/project/c_project/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/mingw64/bin/mingw32-make.exe -f Makefile cmTC_4d85e/fast && D:\Program Files\mingw64\bin\make.exe  -f CMakeFiles\cmTC_4d85e.dir\build.make CMakeFiles/cmTC_4d85e.dir/build
+process_begin: CreateProcess(NULL, D:\Program Files\mingw64\bin\make.exe -f CMakeFiles\cmTC_4d85e.dir\build.make CMakeFiles/cmTC_4d85e.dir/build, ...) failed.
+make (e=2): 系统找不到指定的文件。
+mingw32-make.exe: *** [Makefile:126: cmTC_4d85e/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/project/c_project/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/mingw64/bin/mingw32-make.exe -f Makefile cmTC_6d8a3/fast && D:\Program Files\mingw64\bin\make.exe  -f CMakeFiles\cmTC_6d8a3.dir\build.make CMakeFiles/cmTC_6d8a3.dir/build
+process_begin: CreateProcess(NULL, D:\Program Files\mingw64\bin\make.exe -f CMakeFiles\cmTC_6d8a3.dir\build.make CMakeFiles/cmTC_6d8a3.dir/build, ...) failed.
+make (e=2): 系统找不到指定的文件。
+mingw32-make.exe: *** [Makefile:126: cmTC_6d8a3/fast] Error 2
+
+
+
